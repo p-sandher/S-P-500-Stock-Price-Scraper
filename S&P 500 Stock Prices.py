@@ -4,14 +4,15 @@ main.py
   Project: COVID-19 SK Data Visualizer 
   Date of Last Update: May 20, 2021
   Functional Summary
-      This program uses streamlit to display the following about the current       S&P 500: 
+      This program uses streamlit to display the following about the current       
+      S&P 500: 
       1. Filter companies by one or more industries
-      2. Display plots of closing prices of               stocks
+      2. Display plots of closing prices of stocks
       3. Download a CSV file of company lists
       
      Commandline Parameters: 0
   How to Run:
-  streamlit run main.py
+  streamlit run S&P 500 Stock Prices.py
         
 '''
 

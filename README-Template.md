@@ -1,56 +1,27 @@
-# Project Title
-
-Simple overview of use/purpose.
+# S&P 500 Stock Price Scraper 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Displays the current list of S&P 500 companies along with sectors, displays plots of closing prices of stocks, filter the companies shown by industry and download a CSV file of that list. 
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Python Libraries: Streamlit, pandas, base64, matplotlib, yfinance
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Puneet Sandher
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [PUNEET SANDHER] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
